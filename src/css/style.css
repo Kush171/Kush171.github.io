@@ -387,16 +387,19 @@ nav{
     border-radius: 20%;
     margin-bottom: 50px;
 }
+.contacts_social{
+    padding: 0px 0px 50px;
+}
 .contacts_social a{
     text-align: center;
-     margin: 0px 20px 50px;
+    padding: 0px 20px 50px;
 }
 .map img{
     width: 100%;
 }
 .footer{
-    background: #354051;
+    background: #354051 ;
     height: 96px;
-    color: #fff;
+    color: #fff ;
     text-align: center;   
 }
